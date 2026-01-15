@@ -6,6 +6,7 @@
 
 Acompañamos a pymes, profesionales y administraciones en su transformación digital desde Zaragoza.
 
+[![Web](https://img.shields.io/badge/Web-lyra--informatica.es-0d6efd?style=flat-square&logo=googlechrome&logoColor=white)](https://orbilai.com)
 [![Web](https://img.shields.io/badge/Web-lyra--informatica.es-0d6efd?style=flat-square&logo=googlechrome&logoColor=white)](https://lyra-informatica.es)
 [![Email](https://img.shields.io/badge/Email-lyra%40lyra--informatica.es-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lyra@lyra-informatica.es)
 [![Teléfono](https://img.shields.io/badge/Tel-976_56_42_01-25d366?style=flat-square&logo=phone&logoColor=white)](tel:+34976564201)
